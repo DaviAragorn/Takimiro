@@ -1,10 +1,12 @@
 
 <h2>📊 Github Stats</h2>
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=takimiro&theme=gotham&show_icons=true" />
-</div>
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takimiro&hide=jupyther&langs_count=6&layout=compact&theme=gotham&show_icons=true" />
+  <div>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=takimiro&theme=gotham&show_icons=true" />
+  </div>
+  <div>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takimiro&hide=jupyther&langs_count=6&layout=compact&theme=gotham&show_icons=true" />
+  </div>
 </div>
 
 <!--
